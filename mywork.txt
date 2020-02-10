@@ -1,0 +1,20 @@
+My asssociate id:
+844957
+Other team members:
+845031
+845066
+844957
+844956
+Team lead:
+845031
+My role in team:
+1.To develop the shipping address page and view order page.
+My development files:
+1.ViewOrder.html
+2.Index.html
+I was strong in:
+1.Html
+2.Css
+3.Bootstrap
+I was week in:
+JavaScript
